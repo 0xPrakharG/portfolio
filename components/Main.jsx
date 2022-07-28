@@ -12,7 +12,7 @@ const Main = () => {
           <h1 className="md:text-4xl py-4 text-gray-700">
             Hi, I'm <span className="text-[#5651e5]">Prakhar 👋</span>
           </h1>
-          <h1 className="md:text-4xl text-gray-700">A Frontend developer</h1>
+          <h1 className="md:text-4xl text-gray-700 capitalize">A Frontend developer</h1>
           <p className="py-5 text-gray-600 mx-auto max-w-[80%] md:max-w-[60%]">
             I'm a front-end web developer specializing in building exceptional
             digital experiences. currently I'm focused on building responsive
