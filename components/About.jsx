@@ -31,7 +31,7 @@ const About = () => {
           <button className="mb-9 p-3">
             <a
               href="https://drive.google.com/file/d/1udGffFSaeql1ZHJJgGyZG_VL-9PyJFkU/view"
-              target="_blank"
+              target="_blank" rel="noreferrer"
             >
               My Resume
             </a>

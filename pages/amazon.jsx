@@ -35,10 +35,10 @@ const amazonClone = () => {
             authentication is available so they can signup & signin from their
             email address in order to save their favourite items.
           </p>
-          <a href="https://clone-5af93.web.app/" target="_blank">
+          <a href="https://clone-5af93.web.app/" target="_blank" rel="noreferrer">
             <button className="px-4 py-2 mt-4 mr-8 ">Demo</button>
           </a>
-          <a href="https://github.com/Prakhar-Goyal-3014/amazon_clone" target="_blank">
+          <a href="https://github.com/Prakhar-Goyal-3014/amazon_clone" target="_blank" rel="noreferrer">
             <button className="px-4 py-2 mt-4">Code</button>
           </a>
         </div>

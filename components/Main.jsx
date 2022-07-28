@@ -19,22 +19,22 @@ const Main = () => {
             front-end web applications while learning backend technologies.
           </p>
           <div className="flex items-center justify-between mx-auto max-w-[330px] py-4">
-            <a href="https://www.linkedin.com/in/prakhar-goyal-41b1451bb/" target="_blank">
+            <a href="https://www.linkedin.com/in/prakhar-goyal-41b1451bb/" target="_blank" rel="noreferrer">
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                 <FaLinkedinIn size={20} />
               </div>
             </a>
-            <a href="https://github.com/Prakhar-Goyal-3014" target="_blank">
+            <a href="https://github.com/Prakhar-Goyal-3014" target="_blank" rel="noreferrer">
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                 <FaGithub size={20} />
               </div>
             </a>
-            <a href="https://twitter.com/Prakharg3014" target="_blank">
+            <a href="https://twitter.com/Prakharg3014" target="_blank" rel="noreferrer">
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                 <FaTwitter size={20} />
               </div>
             </a>
-            <a href="mailto:prakhargoyal.104@gmail.com" target="_blank">
+            <a href="mailto:prakhargoyal.104@gmail.com" target="_blank" rel="noreferrer">
               <div className="rounded-full shadow-lg shadow-gray-400 p-6 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                 <AiOutlineMail />
               </div>
