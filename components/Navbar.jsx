@@ -170,22 +170,22 @@ const Navbar = () => {
                 Let's connect
               </p>
               <div className="flex items-center justify-between my-4 w-[80%]">
-                <a href="https://www.linkedin.com/in/prakhar-goyal-41b1451bb/">
+                <a href="https://www.linkedin.com/in/prakhar-goyal-41b1451bb/" target="_blank">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                     <FaLinkedinIn />
                   </div>
                 </a>
-                <a href="https://github.com/Prakhar-Goyal-3014">
+                <a href="https://github.com/Prakhar-Goyal-3014" target="_blank">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                     <FaGithub />
                   </div>
                 </a>
-                <a href="https://twitter.com/Prakharg3014">
+                <a href="https://twitter.com/Prakharg3014" target="_blank">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                     <FaTwitter />
                   </div>
                 </a>
-                <a href="mailto:prakhargoyal.104@gmail.com">
+                <a href="mailto:prakhargoyal.104@gmail.com" target="_blank">
                   <div className="rounded-full shadow-lg shadow-gray-400 p-3 flex text-[#5651e5] cursor-pointer hover:scale-105 ease-in duration-300">
                     <AiOutlineMail />
                   </div>

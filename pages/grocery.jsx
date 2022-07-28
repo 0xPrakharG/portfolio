@@ -34,10 +34,10 @@ const groceryBud = () => {
             It stores the items in the localstorage so even after closing the
             tab or the browser they can easily see what they added before.
           </p>
-          <a href="https://prakhar-goyal-3014.github.io/Grocery-Bud/">
+          <a href="https://prakhar-goyal-3014.github.io/Grocery-Bud/" target="_blank">
             <button className="px-4 py-2 mt-4 mr-8 ">Demo</button>
           </a>
-          <a href="https://github.com/Prakhar-Goyal-3014/Grocery-Bud">
+          <a href="https://github.com/Prakhar-Goyal-3014/Grocery-Bud" target="_blank">
             <button className="px-4 py-2 mt-4">Code</button>
           </a>
         </div>

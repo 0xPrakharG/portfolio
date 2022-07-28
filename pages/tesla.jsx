@@ -32,10 +32,13 @@ const TeslaClone = () => {
             clone of Tesla website. This is the first project I made using
             ReactJS.
           </p>
-          <a href="https://tesla-clone-2a2a2.web.app/">
+          <a href="https://tesla-clone-2a2a2.web.app/" target="_blank">
             <button className="px-4 py-2 mt-4 mr-8 ">Demo</button>
           </a>
-          <a href="https://github.com/Prakhar-Goyal-3014/Tesla_clone">
+          <a
+            href="https://github.com/Prakhar-Goyal-3014/Tesla_clone"
+            target="_blank"
+          >
             <button className="px-4 py-2 mt-4">Code</button>
           </a>
         </div>

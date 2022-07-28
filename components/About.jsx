@@ -29,7 +29,10 @@ const About = () => {
             Firebase and learning new technologies.
           </p>
           <button className="mb-9 p-3">
-            <a href="https://drive.google.com/file/d/1udGffFSaeql1ZHJJgGyZG_VL-9PyJFkU/view">
+            <a
+              href="https://drive.google.com/file/d/1udGffFSaeql1ZHJJgGyZG_VL-9PyJFkU/view"
+              target="_blank"
+            >
               My Resume
             </a>
           </button>

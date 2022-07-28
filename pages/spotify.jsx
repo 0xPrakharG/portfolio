@@ -33,10 +33,10 @@ const spotifyMini = () => {
             music. It is like a mini spotify which I made to get better
             understanding of event listeners in JavaScript.
           </p>
-          <a href="https://prakhar-goyal-3014.github.io/Spotify_Clone/">
+          <a href="https://prakhar-goyal-3014.github.io/Spotify_Clone/" target="_blank">
             <button className="px-4 py-2 mt-4 mr-8 ">Demo</button>
           </a>
-          <a href="https://github.com/Prakhar-Goyal-3014/Spotify_Clone">
+          <a href="https://github.com/Prakhar-Goyal-3014/Spotify_Clone" target="_blank">
             <button className="px-4 py-2 mt-4">Code</button>
           </a>
         </div>
