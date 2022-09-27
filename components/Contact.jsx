@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import React, { useState } from 'react'
-import myPhoto from '../public/assets/my.png'
+import myPhoto from '../public/assets/prakhar1.jpeg'
 import { FaLinkedinIn, FaTwitter, FaGithub } from 'react-icons/fa'
 import { AiOutlineMail } from 'react-icons/ai'
 import Link from 'next/link'
