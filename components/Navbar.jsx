@@ -17,7 +17,7 @@ const Navbar = () => {
       router.asPath === '/amazon' ||
       router.asPath === '/tesla' ||
       router.asPath === '/grocery' ||
-      router.asPath === '/spotify'
+      router.asPath === '/netflix'
     ) {
       setNavBg('transparent')
       setLinkColor('#ecf0f3')

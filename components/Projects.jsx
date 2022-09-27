@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import amazon from '../public/assets/projects/amazon.png'
 import tesla from '../public/assets/projects/tesla.png'
-import spotify from '../public/assets/projects/spotify.png'
+import netflix from '../public/assets/projects/Netflix-copy.png'
 import grocery from '../public/assets/projects/grocery.png'
 import Link from 'next/link'
 import ProjectItem from './ProjectItem'
@@ -15,6 +15,11 @@ const Projects = () => {
           Projects
         </p>
         <div className="grid md:grid-cols-2 gap-8">
+          <ProjectItem
+            title="Netflix Clone"
+            backgroundImg={netflix}
+            projectUrl="/netflix"
+          />
           <ProjectItem
             title="Amazon Clone"
             backgroundImg={amazon}
@@ -29,11 +34,6 @@ const Projects = () => {
             title="Grocery Bud"
             backgroundImg={grocery}
             projectUrl="/grocery"
-          />
-          <ProjectItem
-            title="Spotify Mini"
-            backgroundImg={spotify}
-            projectUrl="/spotify"
           />
         </div>
       </div>

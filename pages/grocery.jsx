@@ -18,7 +18,7 @@ const groceryBud = () => {
         />
         <div className="absolute top-[70%] max-w-[80%] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2">
           <h2 className="py-2 tracking-widest">Grocery Bud</h2>
-          <h3 className="tracking-wider">HTML / CSS / Javascript</h3>
+          
         </div>
       </div>
       <div className="max-w-[80%] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8">
@@ -47,16 +47,16 @@ const groceryBud = () => {
             <div className="grid grid-cols-3 md:grid-cols-2 lg:grid-cols-1">
               <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" />
-                HTML
+                ReactJs
               </p>
 
               <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" />
-                CSS
+                Javascript
               </p>
               <p className="text-gray-600 py-2 flex items-center">
                 <RiRadioButtonFill className="pr-1" />
-                Javascript
+                CSS
               </p>
             </div>
           </div>

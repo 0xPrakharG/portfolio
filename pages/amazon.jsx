@@ -18,7 +18,7 @@ const amazonClone = () => {
         />
         <div className="absolute top-[70%] max-w-[80%] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2">
           <h2 className="py-2 tracking-widest">Amazon Clone</h2>
-          <h3 className="tracking-wider">ReactJs / Firebase / CSS</h3>
+          
         </div>
       </div>
       <div className="max-w-[80%] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8">
