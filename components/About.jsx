@@ -26,7 +26,7 @@ const About = () => {
             enthused with making websites interactive. This interest helped me
             in making more creative and unique website designs. I am now
             spending my time with building projects with ReactJS, NextJS,
-            Firebase and learning new technologies.
+            Firebase and learning new technologies
           </p>
           <button className="mb-9 p-3">
             <a
