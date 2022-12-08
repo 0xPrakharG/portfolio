@@ -171,7 +171,7 @@ const Navbar = () => {
               </p>
               <div className="flex items-center justify-between my-4 w-[80%]">
                 <a
-                  href="https://www.linkedin.com/in/prakhar-goyal-41b1451bb/"
+                  href="https://www.linkedin.com/in/0xprakharg/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -180,7 +180,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href="https://github.com/Prakhar-Goyal-3014"
+                  href="https://github.com/0xPrakharG"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -189,7 +189,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href="https://twitter.com/Prakharg3014"
+                  href="https://twitter.com/0xPrakharG"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -198,7 +198,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href="mailto:prakhargoyal.104@gmail.com"
+                  href="mailto:prakhargoyal.3014@gmail.com"
                   target="_blank"
                   rel="noreferrer"
                 >
