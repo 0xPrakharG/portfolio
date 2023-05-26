@@ -14,23 +14,14 @@ const About = () => {
             About
           </p>
           <p className="pb-6 text-lg tracking-widest text-gray-600">
-            I am a front-end web developer currently pursuing my BTECH in the
-            field of Information Technology from Manipal University Jaipur,
-            Rajasthan. I have always had a knack for technology and working with
-            computers. During my college I started working with HTML & CSS which
-            developed my interest in Web Development.
+            I'm [Your Name], a React.js frontend web developer expanding my skills to include the complete MERN stack. I'm passionate about creating intuitive user interfaces and I'm excited about the potential of Web 3.0 technologies. With a strong curiosity for backend development, I'm currently diving into MongoDB, Express.js, React.js, and Node.js. Collaboration and continuous learning are at the core of my approach, and I thrive in team environments. On my portfolio website, you'll find examples of my frontend work and ongoing projects exploring the potential of Web 3.0.
           </p>
           <p className="pb-6 text-lg tracking-widest text-gray-600">
-            Fascinated with how intricate programming can be I was quickly drawn
-            to learn more. I started learning JavaScript and was even more
-            enthused with making websites interactive. This interest helped me
-            in making more creative and unique website designs. I am now
-            spending my time with building projects with ReactJS, NextJS,
-            Firebase and learning new technologies.
+            Let's connect and build the future of the web together!
           </p>
           <button className="mb-9 p-3">
             <a
-              href="https://drive.google.com/file/d/1nkGqw4_U2yaPjNsvNCKuJ1dp7zrl3ni2/view?usp=share_link"
+              href="https://drive.google.com/file/d/1j5MGKqSQLtWxCGbByHQnkXXbdG-LO_Ho/view?usp=sharing"
               target="_blank" rel="noreferrer"
             >
               My Resume
