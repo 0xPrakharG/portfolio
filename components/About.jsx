@@ -14,7 +14,7 @@ const About = () => {
             About
           </p>
           <p className="pb-6 text-lg tracking-widest text-gray-600">
-            I'm [Your Name], a React.js frontend web developer expanding my skills to include the complete MERN stack. I'm passionate about creating intuitive user interfaces and I'm excited about the potential of Web 3.0 technologies. With a strong curiosity for backend development, I'm currently diving into MongoDB, Express.js, React.js, and Node.js. Collaboration and continuous learning are at the core of my approach, and I thrive in team environments. On my portfolio website, you'll find examples of my frontend work and ongoing projects exploring the potential of Web 3.0.
+            I'm Prakhar Goyal, a React.js frontend web developer expanding my skills to include the complete MERN stack. I'm passionate about creating intuitive user interfaces and I'm excited about the potential of Web 3.0 technologies. With a strong curiosity for backend development, I'm currently diving into MongoDB, Express.js, React.js, and Node.js. Collaboration and continuous learning are at the core of my approach, and I thrive in team environments. On my portfolio website, you'll find examples of my frontend work and ongoing projects exploring the potential of Web 3.0.
           </p>
           <p className="pb-6 text-lg tracking-widest text-gray-600">
             Let's connect and build the future of the web together!
